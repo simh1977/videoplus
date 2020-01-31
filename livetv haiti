@@ -32,6 +32,12 @@ http://netflexx.org/get.php?username=iBp3dxX3gA&password=aJThpa5EAl&type=m3u
     <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/6xVtcx31</link>
     <thumbnail></thumbnail>
 </plugin>
+
+<plugin>
+    <title>[COLOR yellow]HAITI LIVE 2   [/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ht.m3u</link>
+    <thumbnail></thumbnail>
+</plugin>
  
 <plugin>
     <title>[COLOR yellow]PLUTO TV   [/COLOR]</title>
