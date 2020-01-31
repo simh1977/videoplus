@@ -1,6 +1,6 @@
 <plugin>
-    <title>[COLOR yellow]IPTV TEST[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://netflexx.org/get.php?username=iBp3dxX3gA&password=aJThpa5EAl&type=m3u</link>
+    <title>[COLOR yellow]MOVIES[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/movies.m3u</link>
     <thumbnail></thumbnail>
 </plugin>
 
