@@ -9,8 +9,8 @@
 http://netflexx.org/get.php?username=iBp3dxX3gA&password=aJThpa5EAl&type=m3u
 
 <plugin>
-    <title>[COLOR yellow]CANADA LIVE1[/COLOR]</title>
-    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://pastebin.com/raw/Tsy3pU5Z</link>
+    <title>[COLOR yellow]MUSIC LIVE[/COLOR]</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=https://iptv-org.github.io/iptv/categories/music.m3u</link>
     <thumbnail></thumbnail>
 </plugin>
  
